@@ -1,0 +1,110 @@
+[
+ {
+   "TITLE": "The Order of Time",
+   "LENGTH": 256,
+   "GENRE": "Nonfiction",
+   "PRICE": 13.99,
+   "AUTHOR": "Carlo Rovelli",
+   "IMAGE": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1516424407i/36442813.jpg",
+   "COLOR": "#F44048"
+ },
+ {
+   "TITLE": "Six of Crows",
+   "LENGTH": 496,
+   "GENRE": "Fiction",
+   "PRICE": 9.99,
+   "AUTHOR": "Leigh Bardugo",
+   "IMAGE": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651710803i/23437156.jpg",
+   "COLOR": "#2A333B"
+ },
+ {
+   "TITLE": "The Unfolding of Language",
+   "LENGTH": 368,
+   "GENRE": "Nonfiction",
+   "PRICE": 12.99,
+   "AUTHOR": "Guy Deutscher",
+   "IMAGE": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386925063i/262579.jpg",
+   "COLOR": "#C92E0C"
+ },
+ {
+   "TITLE": "A Field Guide to Getting Lost",
+   "LENGTH": 224,
+   "GENRE": "Essays",
+   "PRICE": 12.99,
+   "AUTHOR": "Rebecca Solnit",
+   "IMAGE": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422984723i/76479.jpg",
+   "COLOR": "#5D6662"
+ },
+ {
+   "TITLE": "Bullshit Jobs",
+   "LENGTH": 368,
+   "GENRE": "Essays",
+   "PRICE": 19.99,
+   "AUTHOR": "David Graeber",
+   "IMAGE": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523865380i/34466958.jpg",
+   "COLOR": "#2F88E4"
+ },
+ {
+   "TITLE": "Bluets",
+   "LENGTH": 112,
+   "GENRE": "Essays",
+   "PRICE": 15.99,
+   "AUTHOR": "Maggie Nelson",
+   "IMAGE": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1354902976i/6798263.jpg",
+   "COLOR": "#1B219A"
+ },
+ {
+   "TITLE": "Exhalation",
+   "LENGTH": 368,
+   "GENRE": "Fiction",
+   "PRICE": 17.99,
+   "AUTHOR": "Ted Chiang",
+   "IMAGE": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1534388394i/41160292.jpg",
+   "COLOR": "#000000"
+ },
+ {
+   "TITLE": "Metaphors We Live By",
+   "LENGTH": 242,
+   "GENRE": "Nonfiction",
+   "PRICE": 12.99,
+   "AUTHOR": "George Lakoff",
+   "IMAGE": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388194058i/34459.jpg",
+   "COLOR": "#535874"
+ },
+ {
+   "TITLE": "Thinking, Fast and Slow",
+   "LENGTH": 499,
+   "GENRE": "Nonfiction",
+   "PRICE": 19.99,
+   "AUTHOR": "Daniel Kahneman",
+   "IMAGE": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1317793965i/11468377.jpg",
+   "COLOR": "#E9AC30"
+ },
+ {
+   "TITLE": "The Overstory",
+   "LENGTH": 512,
+   "GENRE": "Fiction",
+   "PRICE": 12.99,
+   "AUTHOR": "Richard Powers",
+   "IMAGE": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562786502i/40180098.jpg",
+   "COLOR": "#B9550D"
+ },
+ {
+   "TITLE": "These Precious Days",
+   "LENGTH": 336,
+   "GENRE": "Essays",
+   "PRICE": 8.99,
+   "AUTHOR": "Ann Patchett",
+   "IMAGE": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1621841000i/56922687.jpg",
+   "COLOR": "#B1062F"
+ },
+ {
+   "TITLE": "The Accidental Asian: Notes of a Native Speaker",
+   "LENGTH": 206,
+   "GENRE": "Essays",
+   "PRICE": 13.99,
+   "AUTHOR": "Eric Liu",
+   "IMAGE": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403190717i/37462.jpg",
+   "COLOR": "#737D18"
+ }
+]
